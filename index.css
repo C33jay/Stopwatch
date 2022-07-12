@@ -22,12 +22,14 @@ button{
     padding: 18px 1px;
     font-size: 1.2em;
     width: 180px;
-    margin: 10pxrdx;
+    margin: 10px;
+    
 }
 button:hover{
     cursor: pointer;
-    background-color: #65c7f7;
+    background-color: #9cecfb;
     color: #fff;
     transition: .4s;
     border: none;
+    border-radius: 4%;
 }
